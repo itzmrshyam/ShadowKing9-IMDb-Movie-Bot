@@ -12,7 +12,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
+➥ Creator: <a href='https://t.me/itz_mrshyam'>Mr SHYAM</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -21,13 +21,13 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://t.me/itz_mrshyam'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/itz_mrshyam'>Shyam EDITs</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/m_s_p_o_123'>Movie Club</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -54,7 +54,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/m_s_p_o_123)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -127,7 +127,8 @@ Do as you wish with telegra.ph module!
 <b>NOTE:</b>
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
-• These commands can be used by any group member."""
+• These commands can be used by any group member.
+• Separate bot is also available :- <a href='https://t.me/ShadowTelegraphBot'>Telegraph Downloader</a>."""
 
     INFO_TXT = """Help: <b>Information</b>
 
@@ -308,12 +309,13 @@ Music download modules, for those who love music.
 
 <b>YouTube Thumbnail Download</b>
 • /ytthumb (youtube link)
-<b>Example:</b> <code>/ytthumb https://youtu.be/h6PtzFYaMxQ</code>
+<b>Example:</b> <code>/ytthumb https://youtu.be/nkzSkRocaoE</code>
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
-• These commands can be used by any group member."""
+• These commands can be used by any group member.
+• Separate bot is also available :- <a href='https://t.me/ShadowYtDownloaderBot'>YouTube Downloader</a>."""
 
     PASSWORD_GEN_TXT = """Help: <b>Password Generator</b>
 
