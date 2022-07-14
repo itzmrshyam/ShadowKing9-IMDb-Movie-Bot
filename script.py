@@ -2,7 +2,7 @@ class Script(object):
     START_TXT = """Hello {},
 
 My name is <a href=https://t.me/{}>{}</a>!
-
+➥ Creator: <a href='https://t.me/itz_mrshyam'>♛M̶R̶ S̶H̶Y̶A̶M̶</a>
 <b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
 
 Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
@@ -12,22 +12,22 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/ShadowKing9o'>Shadow King</a>
+➥ Creator: <a href='https://t.me/itz_mrshyam'>♛M̶R̶ S̶H̶Y̶A̶M̶</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
 ➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
-➥ YouTube: <a href='https://youtube.com/channel/UCqVIzF-2AhO_pY4uo8Rr5Hg'>Shadows Arena</a>"""
+➥ YouTube: <a href='https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw'>YouTube</a>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/MasterShad0w/IMDb-Movie-Bot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/itzmrshyam/IMDb-Movie-Bot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
 - <a href='https://t.me/ShadowKing9o'>Shadow King</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/ShadowsArena'>Shadows Arena</a>"""
+- <a href='https://t.me/itzmrshyam'>̶M ̶r ̶. ̶  ̶S ̶h ̶y ̶a ̶m</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -280,7 +280,7 @@ Some URLs is Shortner
 • /short <code>(link)</code> - I will send the shorted links.
 
 <b>Example:</b>
-<code>/short https://t.me/josprojects</code>
+<code>/short https://t.me/itz_mrshyam</code>
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
@@ -309,7 +309,7 @@ Music download modules, for those who love music.
 
 <b>YouTube Thumbnail Download</b>
 • /ytthumb (youtube link)
-<b>Example:</b> <code>/ytthumb https://youtu.be/nkzSkRocaoE</code>
+<b>Example:</b> <code>/ytthumb https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw</code>
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
