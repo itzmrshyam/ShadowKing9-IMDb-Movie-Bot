@@ -1,32 +1,5 @@
-# Telegram Movie Bot
-
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
-  </a>
-  <a href="https://t.me/ShadowKing9o">
-    <img src="https://telegra.ph/file/93a7e33b65dc93349c0be.jpg" width="250">
-  </a><br>
-  <a href="https://t.me/ShadowsArena">
-    &nbsp;<img src="https://img.shields.io/badge/Shadow%20Arena-Channel-blue?style=plastic&logo=Telegram" width="130" height="18">&nbsp;
-  </a>
-  <a href="https://t.me/+9Zhp_GdQVctiNjc1">
-    &nbsp;<img src="https://img.shields.io/badge/Movie%20Addaa-Group-blue?style=plastic&logo=Telegram" width="130" height="18">&nbsp;
-  </a>
-  <br>
-  <a href="https://github.com/MasterShad0w/IMDb-Movie-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MasterShad0w/IMDb-Movie-Bot?style=social">
-  </a>
-  <a href="https://github.com/MasterShad0w/IMDb-Movie-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MasterShad0w/IMDb-Movie-Bot?label=Fork&style=social">
-  </a>  
-  <br>
-  <a href="https://youtube.com/channel/UCqVIzF-2AhO_pY4uo8Rr5Hg">
-    <img src="https://img.shields.io/badge/Subscribe-Shadow%20Arena-%23FA0606?style=for-the-badge&logo=Youtube" width="300">
-  </a>
-</p>
-
-## Features
+# @itz_mrshyam
+## Features 
 
 - [x] Auto Filter
 - [x] Manuel Filter
@@ -76,7 +49,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MasterShad0w/IMDb-Movie-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/itzmrshyam/IMDb-Movie-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </p>
 </details>
@@ -97,7 +70,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MasterShad0w/IMDb-Movie-Bot
+git clone https://github.com/itzmrshyam/IMDb-Movie-Bot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -136,11 +109,11 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+9Zhp_GdQVctiNjc1)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/ShadowsArena)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+alaIYMx3gwo4YmFl)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.me/mrshyambot)
 
 ## Credits 
-* [![Shadow King](https://img.shields.io/static/v1?label=Shadow-King&message=devs&color=critical)](https://telegram.dog/ShadowKing9o)
+* [![♛M̶R̶ S̶H̶Y̶A̶M̶](https://img.shields.io/static/v1?label=mr-shyam&message=devs&color=critical)](https://telegram.dog/itz_mrshyam)
 
 ## Disclaimer
 [![GNU Affero General Public License 3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
