@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/ShadowsArena')
+                InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://telegram.me/m_s_p_o_123')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -50,8 +50,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🕵️ Search here Movie 🕵️', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/ShadowsArena'),
-            InlineKeyboardButton('🎥 Movie Adda 🎥', url='https://t.me/+9Zhp_GdQVctiNjc1')
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://telegram.me/m_s_p_o_123'),
+            InlineKeyboardButton('🎥 Movie Adda 🎥', url='https://t.me/+0BvEgDmKKT84ZmFl')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
         ]]
@@ -98,8 +98,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🕵️ Search here Movie 🕵️', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/ShadowsArena'),
-            InlineKeyboardButton('🎥 Movie Adda 🎥', url='https://t.me/+9Zhp_GdQVctiNjc1')
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://telegram.me/m_s_p_o_123'),
+            InlineKeyboardButton('🎥 Movie Adda 🎥', url='https://t.me/+0BvEgDmKKT84ZmFl')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
         ]]
@@ -250,11 +250,11 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('🙏 Support 🙏', url='https://t.me/ShadowsArena'),
-            InlineKeyboardButton('🎁 Channel 🎁', url='https://youtube.com/channel/UCqVIzF-2AhO_pY4uo8Rr5Hg')
+            InlineKeyboardButton('🙏 Support 🙏', url='https://telegram.me/m_s_p_o_123'),
+            InlineKeyboardButton('🎁 Channel 🎁', url='https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw')
         ],
         [
-            InlineKeyboardButton('🎥 Movie Addaa 🎥', url=f'https://t.me/+9Zhp_GdQVctiNjc1')
+            InlineKeyboardButton('🎥 Movie Addaa 🎥', url=f'https://t.me/+0BvEgDmKKT84ZmFl')
         ]
         ]
     await client.send_cached_media(
