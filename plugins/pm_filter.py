@@ -1,4 +1,3 @@
-# Kanged From @ShadowKing9o
 import asyncio
 import re
 import ast
@@ -116,8 +115,8 @@ async def next_page(bot, query):
             )
     btn.insert(0,
             [
-                InlineKeyboardButton("📽 Movies 📽", url="https://t.me/joinchat/PDeJI4GPQ95iMGQ1"),
-                InlineKeyboardButton("🎞 Series 🎞", url="https://t.me/joinchat/TFBnRMFWcqM5M2Zl")
+                InlineKeyboardButton("📽 Movies 📽", url="https://t.me/+0BvEgDmKKT84ZmFl"),
+                InlineKeyboardButton("CONTACT ME", url="https://telegram.me/mrshyambot")
             ])
 
     btn.insert(0, [
@@ -267,7 +266,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
         else:
             await query.message.edit_text('Some error occurred!!', parse_mode="md")
-        return await query.answer('Follow Me @ShadowsArena')
+        return await query.answer('Follow Me @itz_mrshyam')
     elif "disconnect" in query.data:
         await query.answer()
 
@@ -290,7 +289,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 f"Some error occurred!!",
                 parse_mode="md"
             )
-        return await query.answer('Follow Me @ShadowsArena')
+        return await query.answer('Follow Me @itz_mrshyam')
     elif "deletecb" in query.data:
         await query.answer()
 
@@ -308,7 +307,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 f"Some error occurred!!",
                 parse_mode="md"
             )
-        return await query.answer('Follow Me @ShadowsArena')
+        return await query.answer('Follow Me @itz_mrshyam')
     elif query.data == "backcb":
         await query.answer()
 
