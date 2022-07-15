@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) @ShadowKing9o
+# Copyright (C) @itz_mrshyam
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -190,7 +190,7 @@ async def short(link):
     
     # Send the text
     try:
-        shorten_urls += "\n\nmade by @ShadowsArena | @ShadowKing9o 🔥"
+        shorten_urls += "\n\nmade by @itz_mrshyam | @itz_mrshyam 🔥"
         return shorten_urls
     except Exception as error:
         return error
