@@ -24,7 +24,7 @@ IMDb is a Open source project.
 Source: <a href='https://github.com/itzmrshyam/IMDb-Movie-Bot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/ShadowKing9o'>Shadow King</a>
+- <a href='https://t.me/itz_mrshyam'>♛M̶R̶ S̶H̶Y̶A̶M̶</a>
 
 <b>SUPPORT GROUP</b>
 - <a href='https://t.me/itzmrshyam'>̶M ̶r ̶. ̶  ̶S ̶h ̶y ̶a ̶m</a>"""
