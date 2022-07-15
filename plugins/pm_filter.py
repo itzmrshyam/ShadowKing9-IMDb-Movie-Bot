@@ -461,8 +461,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🕵️ Search here Movie 🕵️', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/ShadowsArena'),
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+9Zhp_GdQVctiNjc1')
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://telegram.me/m_s_p_o_123'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+0BvEgDmKKT84ZmFl')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
         ]]
